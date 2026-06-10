@@ -1,6 +1,5 @@
 # 💫 About Me:
-currently a student at chitkara university studying CSE with specialization in AI/ML<br>skills : HTML<br>CSS<br>JAVASCRIPT<br>REACT<br>NEXT.JS<br>VUE<br>ANGULAR<br>TAILWIND<br>REDUX<br>NODE.JS<br>EXPRESS<br>FLASK<br>FAST API<br>DJANGO<br>POSTGRESQL<br>MYSQL<br>MONGO DB<br>REDIS<br>PRISMA<br>DOCKER<br>KUBERNETS<br>AWS<br>GCP<br>AZURE<br>VERCEL<br>CLOUDFARE<br>LINUX<br>GITHUB ACTIONS<br>CI/CD<br>REST<br>GRAPHSQL<br>WEBSOCKETS<br>AUTHENTICATION<br>AUTHORIZATION<br>CACHING<br>LOGGING<br>MONITORING<br>BIG O<br>ARRAYS<br>LINKED LISTS<br>STACKS<br>QUEUES<br>TREES<br>GRAPHS<br>HEAPS<br>SORTING<br>BINARY SEARCH<br>RECURSION<br>BACKTRACKING<br>DYNAMIC PROGRAMMING<br>GREEDY<br>BFS<br>DFS<br>BIT MANIPULATION<br><br>
-
+currently a student at chitkara university studying CSE with specialization in AI/ML<br>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Krishnang Pandey) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/krishnangpandey) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Krishnang (Krishna) Pandey) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Krishnang Pandey) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:krishnangpandey03@gmail.com) 
