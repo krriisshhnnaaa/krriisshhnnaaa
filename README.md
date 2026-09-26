@@ -76,8 +76,8 @@
 
 ```typescript
 const ali: Developer = {
-  name:     "Ali Heydari",
-  role:     "Full-Stack Software Engineer & AI Systems Builder",
+  name:     "Krishnang Pandey",
+  role:     "AI/ML Student , Chitkara University ",
   location: "🌍 Earth  ·  Open to Remote",
 
   focus: [
@@ -89,26 +89,17 @@ const ali: Developer = {
   ],
 
   stack: {
-    languages: ["JavaScript", "Python", "C#", "Go", "Rust", "PHP"],
-    backend:   ["Node.js/Express", "FastAPI", "Blazor", ".NET MAUI"],
-    database:  ["PostgreSQL", "MongoDB", "MySQL", "SQLite", "Prisma"],
+    languages: ["JavaScript", "Python", "C#", "Go", "PHP"],
+    backend:   ["Node.js/Express", "FastAPI"],
+    database:  ["PostgreSQL", "MongoDB", "MySQL", "SQLite"],
     ai_ml:     ["PyTorch", "TensorFlow", "OpenCV", "YOLOv8", "Hugging Face", "Whisper/Wav2Vec2"],
     devOps:    ["Docker", "GitHub Actions", "Linux"],
-    security:  ["OWASP", "Applied Cryptography", "Network Security", "Recon Tooling"],
   },
 
   learning:  ["Rust Systems Programming", "Distributed Agentic Systems", "Web3"],
   principle: "Simple · Tested · Secure · Always improving",
 };
 ```
-
-<div align="center">
-
-```bash
-npx ali-hey-0  # Coming soon: CLI tool to showcase my work!
-```
-
-</div>
 
 ---
 
@@ -175,145 +166,6 @@ npx ali-hey-0  # Coming soon: CLI tool to showcase my work!
 </div> 
 
 
-
-## 🚀 Featured Projects
-
-<!-- ─────────────────────────────────────────────────────────────────
-     HOW TO ADD A PROJECT:
-     Copy any row from the relevant table below, fill in:
-       - Name (bold, with emoji)
-       - One-line description
-       - Tech badges  →  ![Name](https://img.shields.io/badge/-Name-HEX?style=flat-square&logo=LOGO&logoColor=white)
-       - Live Demo    →  [Visit](URL)  or  —
-       - Source Code  →  [Repo](URL)  or  🔒 Private
-     Keep one row per project. Column order must match the header.
-───────────────────────────────────────────────────────────────── -->
-
-### ⭐ Flagship: AI-Powered AR Commerce Pipeline
-
-**ARCore** — *Photo-to-AR, in one pipeline.*
-
-An end-to-end system that turns product photos (or a short video) into scale-accurate, AR-ready 3D assets — a customer scans a QR code and sees the *actual-size* piece of furniture in their own room, no app install required.
-
-- 🎯 **Multi-provider 3D generation with automatic failover** — Tripo3D → Meshy → Hugging Face → local fallback, with every fallback transparently flagged in the output manifest rather than silently faked
-- 📐 **Metric-accurate scale calibration** — operator-supplied dimensions are baked directly into the glTF scene graph with automated QA (±5% tolerance), so a 220 cm sofa renders as an actual 220 cm sofa
-- 🎨 **Live material & color customization**, re-baked into a fresh GLB/USDZ before every AR hand-off
-- 📱 **Cross-platform AR delivery** — WebXR/Scene Viewer on Android, Quick Look/USDZ on iOS, 360° fallback on incompatible devices
-- ⚙️ **Async job pipeline** — FastAPI background jobs with poll-based status, so uploads never block on slow upstream AI providers
-
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Blender](https://img.shields.io/badge/-Blender-E87D0D?style=flat-square&logo=blender&logoColor=white)
-
-**Engineering rigor:** 150+ backend tests and 50+ frontend tests passing in CI, strict TypeScript compilation, containerized deployment.
-
-> 🔒 Private client engagement — repository not public.
-
-### 🌐 Web & Full-Stack
-
-| Project | Description | Tech | Live Demo | Source |
-|---|---|---|---|---|
-| 📝 **Personal Blog** | Technical journey, project write-ups, and ideas. | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | [Visit](https://abedini.me/fa/) | [Repo](https://github.com/Ali-hey-0/blog) |
-| 🏭 **Arka Industrial** | Industrial e-commerce platform — staging, moving to production soon. | ![Web](https://img.shields.io/badge/-Web_App-FF5722?style=flat-square) | [Staging](https://arka-industrial.com) | [Repo](https://github.com/Ali-hey-0/arka-industrial) |
-| 🌌 **Simulation** | Interactive 3D visualization of the universe across 65 orders of magnitude — quantum (10⁻³⁵) to cosmic (10⁺³⁰) — with real-time physics. | ![Three.js](https://img.shields.io/badge/-Three.js-000000?style=flat-square&logo=three.js&logoColor=white) | [Visit](https://github.com/Ali-hey-0/Simulation) | [Repo](https://github.com/Ali-hey-0/Simulation) |
-| 🏫 **EduPortal** | School management website with PHP and MySQL. | ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) | — | [Repo](https://github.com/Ali-hey-0/EduPortal) |
-
-### 🖥️ Desktop & Mobile (.NET)
-
-| Project | Description | Tech | Live Demo | Source |
-|---|---|---|---|---|
-| 💼 **AdvanceAccounting** | Windows desktop accounting application for business bookkeeping and finances. | ![Blazor](https://img.shields.io/badge/-Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white) | — | [Repo](https://github.com/Ali-hey-0/AdvanceAccounting) |
-| ⚖️ **BLE Weight Terminal** | .NET MAUI app — connects to an HC-08/HM-10 BLE sensor and streams live weight readings with auto-reconnect and CSV logging. | ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) | — | [Repo](https://github.com/Ali-hey-0/BLE-Weight-Terminal) |
-
-### 🤖 AI / ML & Edge AI
-
-| Project | Description | Tech | Live Demo | Source |
-|---|---|---|---|---|
-| ♻️ **Yolo8n Edge Benchmark** | YOLOv8n evaluation framework for waste-sorting on a Rockchip NPU — covers latency, model size, thermal robustness, and per-class metrics. Ships `.pt` + `.onnx` + `.npu` | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | — | [Repo](https://github.com/Ali-hey-0/Yolo8n_AI_doc) |
-| 🌦️ **forecast-fusion** | Multivariate weather forecasting with Transformers + FastAPI — real-time predictions and interactive visualization. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) | [Visit](https://forecast-fusion.vercel.app) | [Repo](https://github.com/Ali-hey-0/forecast-fusion) |
-| 🩻 **Chest X-Ray Classifier** | Deep learning web app classifying chest X-rays (COVID-19 / Normal / Pneumonia) with Grad-CAM visualization. | ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) | [Visit](https://chest-xray-classifier.vercel.app) | [Repo](https://github.com/Ali-hey-0/chest-xray-classifier) |
-
-### 🖥️ Developer Tooling (Codex)
-
-| Project | Description | Tech | Live Demo | Source |
-|---|---|---|---|---|
-| 🔬 **Aion** | Research platform investigating multi-profile isolation for OpenAI Codex Desktop — Tauri + Rust + React app with an extensive, honestly-documented reverse-engineering log. | ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white) ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB) | — | [Repo](https://github.com/Ali-hey-0/Aion) |
-| ⚡ **Codex-Account-Selector** | Zero-dependency Windows batch file that launches multiple fully-isolated Codex instances side by side. | ![Batch](https://img.shields.io/badge/-Batch-4D4D4D?style=flat-square&logo=windows-terminal&logoColor=white) | — | [Repo](https://github.com/Ali-hey-0/Codex-Account-Selector) |
-
-### 🔧 Tools & Utilities
-
-| Project | Description | Tech | Live Demo | Source |
-|---|---|---|---|---|
-| 📡 **RSS Aggregator** | Full REST API for aggregating RSS feeds — register sources, follow, consume posts. Go + PostgreSQL + Docker. | ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) | — | [Repo](https://github.com/Ali-hey-0/RSS-Aggregator) |
-| 🔍 **BarcodeScannerAPI** | Node.js barcode scanning service — robust processing and easy integration for any app needing barcode recognition. | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) | — | [Repo](https://github.com/Ali-hey-0/BarcodeScannerAPI) |
-| 🔐 **CryptoVault Pro** | File encryption/decryption shipped as both a Python GUI app and a low-level x86-64 Assembly implementation. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Assembly](https://img.shields.io/badge/-Assembly-525252?style=flat-square&logo=assembly&logoColor=white) | — | [Repo](https://github.com/Ali-hey-0/CryptoVault-Pro) |
-| 🔲 **QRception** | Fast QR code generator in C. | ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white) | — | [Repo](https://github.com/Ali-hey-0/QRception) |
-| 🌐 **WebPulse** | Real-time web performance monitoring and analytics dashboard. | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | [Visit](https://webpulse-monitor.vercel.app) | [Repo](https://github.com/Ali-hey-0/WebPulse) |
-| 🔑 **Cryptography Organization** | Centralized reference implementation for symmetric/asymmetric crypto, hashing, digital signatures, and key derivation — with security-best-practices docs. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | — | [Repo](https://github.com/Ali-hey-0/Cryptography-organization) |
-
-<div align="center">
-
-<a href="https://github.com/Ali-hey-0/Simulation">
-  <img src="https://github-stats-extended.vercel.app/api/pin/?username=Ali-hey-0&repo=Simulation&theme=tokyonight&hide_border=true" width="48%" />
-</a>
-<a href="https://github.com/Ali-hey-0/ai-runtime-lab">
-  <img src="https://github-stats-extended.vercel.app/api/pin/?username=Ali-hey-0&repo=ai-runtime-lab&theme=tokyonight&hide_border=true" width="48%" />
-</a>
-<a href="https://github.com/Ali-hey-0/audio-ai-field-guide">
-  <img src="https://github-stats-extended.vercel.app/api/pin/?username=Ali-hey-0&repo=audio-ai-field-guide&theme=tokyonight&hide_border=true" width="48%" />
-</a>
-<a href="https://github.com/Ali-hey-0/forecast-fusion">
-  <img src="https://github-stats-extended.vercel.app/api/pin/?username=Ali-hey-0&repo=forecast-fusion&theme=tokyonight&hide_border=true" width="48%" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=25,6,11&height=70&section=header&text=Deep-Dive%20Technical%20Labs&fontSize=26&fontColor=fff&fontAlignY=65&animation=fadeIn" width="100%" />
-</div>
-
-## 🎓 Deep-Dive Technical Labs
-
-> Two long-form, systems-thinking reference repositories — each is a structured curriculum with runnable code, not a tutorial transcript. Built to teach transferable mental models rather than framework-specific tricks.
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🧠 [AI Runtime Lab](https://github.com/Ali-hey-0/ai-runtime-lab)
-
-**Engineering deterministic systems around non-deterministic models.**
-
-A 14-phase (of 17) systems-engineering curriculum answering one question: *how do you build reliable, auditable, production-grade software on top of a component that is fundamentally probabilistic?*
-
-**Covers:** FSM & state control · durable execution & crash recovery · retry/idempotency · DAG-based parallel workflows · agent runtimes · model routing · edge inference & quantization · RAG · memory systems · multi-agent orchestration · prompt-injection defense & sandboxing · full-system observability.
-
-![Phases](https://img.shields.io/badge/Phases-14%2F17-blue?style=flat-square)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Active-orange?style=flat-square)
-
-**[→ Explore the repo](https://github.com/Ali-hey-0/ai-runtime-lab)**
-
-</td>
-<td width="50%" valign="top">
-
-### 🎙️ [Audio AI Field Guide](https://github.com/Ali-hey-0/audio-ai-field-guide)
-
-**From raw waveform to production voice systems.**
-
-A complete, mental-model-first reference spanning the entire audio ML stack: datasets → preprocessing → Transformer architectures → ASR → audio classification → TTS → full voice-system pipelines (voice assistants, meeting transcription, speech-to-speech translation).
-
-**Covers:** CTC vs. Seq2Seq architectures · Whisper/Wav2Vec2 internals · fine-tuning ASR & TTS · Speaker Diarization & VAD · evaluation metrics (WER, MOS) · a 30+ term glossary.
-
-![HuggingFace](https://img.shields.io/badge/🤗-Audio_Course-FFD21E?style=flat-square)
-![Topics](https://img.shields.io/badge/-ASR_|_TTS_|_Transformers-orange?style=flat-square)
-![Language](https://img.shields.io/badge/lang-EN_|_فا-brightgreen?style=flat-square)
-
-**[→ Explore the repo](https://github.com/Ali-hey-0/audio-ai-field-guide)**
-
-</td>
-</tr>
-</table>
 
 ### 💡 What I'm Building
 
@@ -433,7 +285,7 @@ graph TB
 | deep-learning-with-pytorch | [mrdbourke](https://github.com/mrdbourke) | "Learn PyTorch for Deep Learning: Zero to Mastery" course materials. | [Repo](https://github.com/Ali-hey-0/deep-learning-with-pytorch) |
 | Freqtrade | [freqtrade](https://github.com/freqtrade) | Open-source crypto trading bot. | [Repo](https://github.com/Ali-hey-0/Freqtrade) |
 | Bullet-Physics-SDK | [bulletphysics](https://github.com/bulletphysics) | Real-time collision detection & physics simulation SDK. | [Repo](https://github.com/Ali-hey-0/Bullet-Physics-SDK) |
-| EvoSynth | [dongdongunique](https://github.com/dongdongunique) | Evolutionary-synthesis reference project. | [Repo](https://github.com/Ali-hey-0/EvoSynth) |
+| EvoSynth | [dongdongunique](https://github.com/dongdongunique) | Evolutionary-synthesis reference project. | [Repo](https://github.com/krriisshhnnaaa) |
 
 </details>
 
@@ -486,16 +338,6 @@ My interdisciplinary background directly shapes how I design systems:
 | 🧠 **Neuroscience** | Brain-inspired neural architectures & attention mechanisms |
 | 📊 **Sports Analytics** | Data-driven decision frameworks & probabilistic modeling |
 
-**Shipped so far:**
-
-![Blog](https://img.shields.io/badge/🌐_Blog-Live-success?style=flat-square)
-![API](https://img.shields.io/badge/⚡_Production_API-Shipped-success?style=flat-square)
-![Desktop](https://img.shields.io/badge/🖥️_Desktop_App-.NET_9-success?style=flat-square)
-![EdgeAI](https://img.shields.io/badge/🤖_Edge_AI_Model-Deployed-success?style=flat-square)
-![ARCommerce](https://img.shields.io/badge/🥽_AI_Image--to--AR_Pipeline-Delivered-success?style=flat-square)
-![RuntimeLab](https://img.shields.io/badge/🧠_AI_Runtime_Lab-14%2F17_Phases-success?style=flat-square)
-![Ecommerce](https://img.shields.io/badge/🏭_Industrial_Ecommerce-Staging-yellow?style=flat-square)
-
 ---
 
 <div align="center">
@@ -504,20 +346,20 @@ My interdisciplinary background directly shapes how I design systems:
 
 <br>
 
-### 🌟 *"The best code is written with passion, refined with discipline, and shared with generosity."*
+### 🌟 *"A developer's job isn't limited to write code anymore, it is to solve existing problems while minimizing potential future problems"*
 
 <br>
 
 ### 🤝 Let's Build Something Together
 
-[![Gmail](https://img.shields.io/badge/Say_Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aliheydari1381doc@gmail.com)
-[![GitHub](https://img.shields.io/badge/Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ali-hey-0)
+[![Gmail](https://img.shields.io/badge/Say_Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:official.krishnangpandey@gmail.com)
+[![GitHub](https://img.shields.io/badge/Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/krriisshhnnaaa)
 
 <br>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,25&height=150&section=footer&text=Thanks%20for%20Visiting!&fontSize=35&fontColor=fff&fontAlignY=75" />
 
-**⭐️ From [Ali-hey-0](https://github.com/Ali-hey-0) — Made with 💜 in Markdown**
+**⭐️ From [KRISHNA](https://github.com/krriisshhnnaaa) — Made with 💜 in Markdown**
 
 <img src="https://komarev.com/ghpvc/?username=Ali-hey-0&label=Profile%20Views&color=9333EA&style=flat-square" />
 
