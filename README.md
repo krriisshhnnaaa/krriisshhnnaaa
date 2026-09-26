@@ -45,16 +45,16 @@
 <div align="center">
 
 <img src="https://github-stats-extended.vercel.app/api?username=krriisshhnnaaa&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-<img src="https://streak-stats.demolab.com/?user=Ali-hey-0&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://streak-stats.demolab.com/?user=krriisshhnnaaa&theme=tokyonight&hide_border=true" width="48%" />
 
 <br>
 
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Ali-hey-0&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ali-hey-0&theme=tokyo-night&hide_border=true" width="48%" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=krriisshhnnaaa&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=krriisshhnnaaa&theme=tokyo-night&hide_border=true" width="48%" />
 
 <br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Ali-hey-0&theme=tokyonight&no-frame=true&row=1&column=7" width="95%" />
+<img src="https://github-profile-trophy.vercel.app/?username=krriisshhnnaaa&theme=tokyonight&no-frame=true&row=1&column=7" width="95%" />
 
 </div>
 
@@ -64,7 +64,7 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/github/stars/Ali-hey-0?label=Total%20Stars&style=for-the-badge&color=FFD700&labelColor=FFA500" />
+<img src="https://img.shields.io/github/stars/krriisshhnnaaa?label=Total%20Stars&style=for-the-badge&color=FFD700&labelColor=FFA500" />
 
 </div>
 
