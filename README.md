@@ -37,7 +37,7 @@
 ---
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=fira+code&weight=100&pause=1000&color=F7678E&width=435&lines=Bridging+Models%2C+APIs%2C+and+Cloud+Infra;for+Production-Ready+AI" />
+<img src="https://readme-typing-svg.demolab.com?font=fira+code&weight=100&pause=1000&color=F7678E&width=435&lines=Bridging+Models%2C+APIs%2C+and+Cloud+Infra;for+Production-Ready+AI)](https://git.io/typing-svg" />
 </div>
 
 ## 📊 GitHub Stats
