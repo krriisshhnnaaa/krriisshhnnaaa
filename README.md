@@ -16,7 +16,7 @@
 
 <br>
 
-![Freelance](https://img.shields.io/badge/💼_Freelance-Available-success?style=for-the-badge&labelColor=006400)([![Freelance](https://krishnang-dev-personal-website-proj.vercel.app/)
+![Freelance](https://img.shields.io/badge/💼_Freelance-Available-success?style=for-the-badge&labelColor=006400)([![Freelance]
 ![Collaborations](https://img.shields.io/badge/🤝_Collaborations-Open-FF8C00?style=for-the-badge&labelColor=8B4000)
 ![Full Time](https://img.shields.io/badge/👨‍💻_Full_Time-Seeking-4169E1?style=for-the-badge&labelColor=00008B)
 ![Remote](https://img.shields.io/badge/🌍_Remote-Preferred-9370DB?style=for-the-badge&labelColor=4B0082)
