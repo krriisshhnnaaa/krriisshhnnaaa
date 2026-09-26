@@ -1,21 +1,513 @@
-# 💫 About Me:
-currently a student at chitkara university studying CSE with specialization in AI/ML<br>
+<div align="center">
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Krishnang Pandey) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/krishnangpandey) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Krishnang (Krishna) Pandey) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Krishnang Pandey) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:krishnangpandey03@gmail.com) 
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=for-the-badge&logo=appwrite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=for-the-badge&logo=Adobe%20Audition&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Adobe Dreamweaver](https://img.shields.io/badge/Adobe%20Dreamweaver-FF61F6.svg?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=white) ![Adobe Fonts](https://img.shields.io/badge/Adobe%20Fonts-000B1D.svg?style=for-the-badge&logo=Adobe%20Fonts&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![TeamCity](https://img.shields.io/badge/teamcity-000000.svg?style=for-the-badge&logo=teamcity&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Gitpod](https://img.shields.io/badge/gitpod-f06611.svg?style=for-the-badge&logo=gitpod&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=krriisshhnnaaa &theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=krriisshhnnaaa &theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=krriisshhnnaaa &theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900">
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+# 👨‍💻 Krishnang Pandey
+
+**AI/ML STUDENT - Chitkara University , Rajpura** | Python · REACT.js · C++ · FastAPI · ML · Agentic Systems
+
+<a href="https://github.com/krriisshhnnaaa">
+  <img src="[![Typing SVG](https://readme-typing-svg.demolab.com?font=fira+code&weight=100&pause=1000&width=435&lines=Bridging+Models%2C+APIs%2C+and+Cloud+Infra;for+Production-Ready+AI)](https://git.io/typing-svg)" alt="Typing SVG" />
+</a>
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:official.krishnangpandey@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]((https://github.com/krriisshhnnaaa))
+
+<br>
+
+![Freelance](https://img.shields.io/badge/💼_Freelance-Available-success?style=for-the-badge&labelColor=006400)([![Freelance](https://krishnang-dev-personal-website-proj.vercel.app/)
+![Collaborations](https://img.shields.io/badge/🤝_Collaborations-Open-FF8C00?style=for-the-badge&labelColor=8B4000)
+![Full Time](https://img.shields.io/badge/👨‍💻_Full_Time-Seeking-4169E1?style=for-the-badge&labelColor=00008B)
+![Remote](https://img.shields.io/badge/🌍_Remote-Preferred-9370DB?style=for-the-badge&labelColor=4B0082)
+![Mentoring](https://img.shields.io/badge/📚_Mentoring-Active-DC143C?style=for-the-badge&labelColor=8B0000)
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=krriisshhnnaaa &icon=5&color=2)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+
+### 🧭 Quick Navigation
+
+[📊 Stats](#-github-stats) · [👋 About](#-about-me) · [🛠️ Tech Stack](#️-tech-stack) · [🚀 Projects](#-featured-projects) · [🎓 Deep-Dive Labs](#-deep-dive-technical-labs) · [🛡️ Security & CTF](#-security-research--ctf) · [📖 Learning Library](#-learning-resources--inspiration) · [🗺️ Roadmap](#️-2026-roadmap) · [🎨 Approach](#-unique-approach)
+
+</div>
+
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=70&section=header&text=GitHub%20Stats&fontSize=28&fontColor=fff&fontAlignY=65&animation=fadeIn" width="100%" />
+</div>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-stats-extended.vercel.app/api?username=Ali-hey-0&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://streak-stats.demolab.com/?user=Ali-hey-0&theme=tokyonight&hide_border=true" width="48%" />
+
+<br>
+
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Ali-hey-0&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ali-hey-0&theme=tokyo-night&hide_border=true" width="48%" />
+
+<br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Ali-hey-0&theme=tokyonight&no-frame=true&row=1&column=7" width="95%" />
+
+</div>
+
+---
+
+## ⭐ Repository Stars
+
+<div align="center">
+
+<img src="https://img.shields.io/github/stars/Ali-hey-0?label=Total%20Stars&style=for-the-badge&color=FFD700&labelColor=FFA500" />
+
+</div>
+
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=11,20,24&height=70&section=header&text=About%20Me&fontSize=28&fontColor=fff&fontAlignY=65&animation=fadeIn" width="100%" />
+</div>
+
+## 👋 About Me
+
+```typescript
+const ali: Developer = {
+  name:     "Ali Heydari",
+  role:     "Full-Stack Software Engineer & AI Systems Builder",
+  location: "🌍 Earth  ·  Open to Remote",
+
+  focus: [
+    "🧠 Engineering deterministic runtimes around non-deterministic LLMs",
+    "🎙️ Audio/Speech AI — ASR, TTS, and full voice pipelines",
+    "🥽 AI image-to-3D pipelines for web AR commerce",
+    "🦀 Rust for high-performance systems",
+    "🔐 Security-first engineering & applied cryptography",
+  ],
+
+  stack: {
+    languages: ["JavaScript", "Python", "C#", "Go", "Rust", "PHP"],
+    backend:   ["Node.js/Express", "FastAPI", "Blazor", ".NET MAUI"],
+    database:  ["PostgreSQL", "MongoDB", "MySQL", "SQLite", "Prisma"],
+    ai_ml:     ["PyTorch", "TensorFlow", "OpenCV", "YOLOv8", "Hugging Face", "Whisper/Wav2Vec2"],
+    devOps:    ["Docker", "GitHub Actions", "Linux"],
+    security:  ["OWASP", "Applied Cryptography", "Network Security", "Recon Tooling"],
+  },
+
+  learning:  ["Rust Systems Programming", "Distributed Agentic Systems", "Web3"],
+  principle: "Simple · Tested · Secure · Always improving",
+};
+```
+
+<div align="center">
+
+```bash
+npx ali-hey-0  # Coming soon: CLI tool to showcase my work!
+```
+
+</div>
+
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=20,24,25&height=70&section=header&text=Tech%20Stack&fontSize=28&fontColor=fff&fontAlignY=65&animation=fadeIn" width="100%" />
+</div>
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,js,go,rust,cs,react,nodejs,fastapi,dotnet,postgres,mongodb,docker,linux,pytorch,tensorflow&theme=dark&perline=8" />
+</a>
+
+<br><br>
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+**Frameworks & Backend**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+**Databases & DevOps**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+**AI / ML**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge)
+
+</div>
+
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=24,25,6&height=70&section=header&text=Featured%20Projects&fontSize=28&fontColor=fff&fontAlignY=65&animation=fadeIn" width="100%" />
+</div>
+
+## 🚀 Featured Projects
+
+<!-- ─────────────────────────────────────────────────────────────────
+     HOW TO ADD A PROJECT:
+     Copy any row from the relevant table below, fill in:
+       - Name (bold, with emoji)
+       - One-line description
+       - Tech badges  →  ![Name](https://img.shields.io/badge/-Name-HEX?style=flat-square&logo=LOGO&logoColor=white)
+       - Live Demo    →  [Visit](URL)  or  —
+       - Source Code  →  [Repo](URL)  or  🔒 Private
+     Keep one row per project. Column order must match the header.
+───────────────────────────────────────────────────────────────── -->
+
+### ⭐ Flagship: AI-Powered AR Commerce Pipeline
+
+**ARCore** — *Photo-to-AR, in one pipeline.*
+
+An end-to-end system that turns product photos (or a short video) into scale-accurate, AR-ready 3D assets — a customer scans a QR code and sees the *actual-size* piece of furniture in their own room, no app install required.
+
+- 🎯 **Multi-provider 3D generation with automatic failover** — Tripo3D → Meshy → Hugging Face → local fallback, with every fallback transparently flagged in the output manifest rather than silently faked
+- 📐 **Metric-accurate scale calibration** — operator-supplied dimensions are baked directly into the glTF scene graph with automated QA (±5% tolerance), so a 220 cm sofa renders as an actual 220 cm sofa
+- 🎨 **Live material & color customization**, re-baked into a fresh GLB/USDZ before every AR hand-off
+- 📱 **Cross-platform AR delivery** — WebXR/Scene Viewer on Android, Quick Look/USDZ on iOS, 360° fallback on incompatible devices
+- ⚙️ **Async job pipeline** — FastAPI background jobs with poll-based status, so uploads never block on slow upstream AI providers
+
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Blender](https://img.shields.io/badge/-Blender-E87D0D?style=flat-square&logo=blender&logoColor=white)
+
+**Engineering rigor:** 150+ backend tests and 50+ frontend tests passing in CI, strict TypeScript compilation, containerized deployment.
+
+> 🔒 Private client engagement — repository not public.
+
+### 🌐 Web & Full-Stack
+
+| Project | Description | Tech | Live Demo | Source |
+|---|---|---|---|---|
+| 📝 **Personal Blog** | Technical journey, project write-ups, and ideas. | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | [Visit](https://abedini.me/fa/) | [Repo](https://github.com/Ali-hey-0/blog) |
+| 🏭 **Arka Industrial** | Industrial e-commerce platform — staging, moving to production soon. | ![Web](https://img.shields.io/badge/-Web_App-FF5722?style=flat-square) | [Staging](https://arka-industrial.com) | [Repo](https://github.com/Ali-hey-0/arka-industrial) |
+| 🌌 **Simulation** | Interactive 3D visualization of the universe across 65 orders of magnitude — quantum (10⁻³⁵) to cosmic (10⁺³⁰) — with real-time physics. | ![Three.js](https://img.shields.io/badge/-Three.js-000000?style=flat-square&logo=three.js&logoColor=white) | [Visit](https://github.com/Ali-hey-0/Simulation) | [Repo](https://github.com/Ali-hey-0/Simulation) |
+| 🏫 **EduPortal** | School management website with PHP and MySQL. | ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) | — | [Repo](https://github.com/Ali-hey-0/EduPortal) |
+
+### 🖥️ Desktop & Mobile (.NET)
+
+| Project | Description | Tech | Live Demo | Source |
+|---|---|---|---|---|
+| 💼 **AdvanceAccounting** | Windows desktop accounting application for business bookkeeping and finances. | ![Blazor](https://img.shields.io/badge/-Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white) | — | [Repo](https://github.com/Ali-hey-0/AdvanceAccounting) |
+| ⚖️ **BLE Weight Terminal** | .NET MAUI app — connects to an HC-08/HM-10 BLE sensor and streams live weight readings with auto-reconnect and CSV logging. | ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) | — | [Repo](https://github.com/Ali-hey-0/BLE-Weight-Terminal) |
+
+### 🤖 AI / ML & Edge AI
+
+| Project | Description | Tech | Live Demo | Source |
+|---|---|---|---|---|
+| ♻️ **Yolo8n Edge Benchmark** | YOLOv8n evaluation framework for waste-sorting on a Rockchip NPU — covers latency, model size, thermal robustness, and per-class metrics. Ships `.pt` + `.onnx` + `.npu` | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | — | [Repo](https://github.com/Ali-hey-0/Yolo8n_AI_doc) |
+| 🌦️ **forecast-fusion** | Multivariate weather forecasting with Transformers + FastAPI — real-time predictions and interactive visualization. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) | [Visit](https://forecast-fusion.vercel.app) | [Repo](https://github.com/Ali-hey-0/forecast-fusion) |
+| 🩻 **Chest X-Ray Classifier** | Deep learning web app classifying chest X-rays (COVID-19 / Normal / Pneumonia) with Grad-CAM visualization. | ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) | [Visit](https://chest-xray-classifier.vercel.app) | [Repo](https://github.com/Ali-hey-0/chest-xray-classifier) |
+
+### 🖥️ Developer Tooling (Codex)
+
+| Project | Description | Tech | Live Demo | Source |
+|---|---|---|---|---|
+| 🔬 **Aion** | Research platform investigating multi-profile isolation for OpenAI Codex Desktop — Tauri + Rust + React app with an extensive, honestly-documented reverse-engineering log. | ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white) ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB) | — | [Repo](https://github.com/Ali-hey-0/Aion) |
+| ⚡ **Codex-Account-Selector** | Zero-dependency Windows batch file that launches multiple fully-isolated Codex instances side by side. | ![Batch](https://img.shields.io/badge/-Batch-4D4D4D?style=flat-square&logo=windows-terminal&logoColor=white) | — | [Repo](https://github.com/Ali-hey-0/Codex-Account-Selector) |
+
+### 🔧 Tools & Utilities
+
+| Project | Description | Tech | Live Demo | Source |
+|---|---|---|---|---|
+| 📡 **RSS Aggregator** | Full REST API for aggregating RSS feeds — register sources, follow, consume posts. Go + PostgreSQL + Docker. | ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) | — | [Repo](https://github.com/Ali-hey-0/RSS-Aggregator) |
+| 🔍 **BarcodeScannerAPI** | Node.js barcode scanning service — robust processing and easy integration for any app needing barcode recognition. | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) | — | [Repo](https://github.com/Ali-hey-0/BarcodeScannerAPI) |
+| 🔐 **CryptoVault Pro** | File encryption/decryption shipped as both a Python GUI app and a low-level x86-64 Assembly implementation. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Assembly](https://img.shields.io/badge/-Assembly-525252?style=flat-square&logo=assembly&logoColor=white) | — | [Repo](https://github.com/Ali-hey-0/CryptoVault-Pro) |
+| 🔲 **QRception** | Fast QR code generator in C. | ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white) | — | [Repo](https://github.com/Ali-hey-0/QRception) |
+| 🌐 **WebPulse** | Real-time web performance monitoring and analytics dashboard. | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | [Visit](https://webpulse-monitor.vercel.app) | [Repo](https://github.com/Ali-hey-0/WebPulse) |
+| 🔑 **Cryptography Organization** | Centralized reference implementation for symmetric/asymmetric crypto, hashing, digital signatures, and key derivation — with security-best-practices docs. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | — | [Repo](https://github.com/Ali-hey-0/Cryptography-organization) |
+
+<div align="center">
+
+<a href="https://github.com/Ali-hey-0/Simulation">
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=Ali-hey-0&repo=Simulation&theme=tokyonight&hide_border=true" width="48%" />
+</a>
+<a href="https://github.com/Ali-hey-0/ai-runtime-lab">
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=Ali-hey-0&repo=ai-runtime-lab&theme=tokyonight&hide_border=true" width="48%" />
+</a>
+<a href="https://github.com/Ali-hey-0/audio-ai-field-guide">
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=Ali-hey-0&repo=audio-ai-field-guide&theme=tokyonight&hide_border=true" width="48%" />
+</a>
+<a href="https://github.com/Ali-hey-0/forecast-fusion">
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=Ali-hey-0&repo=forecast-fusion&theme=tokyonight&hide_border=true" width="48%" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=25,6,11&height=70&section=header&text=Deep-Dive%20Technical%20Labs&fontSize=26&fontColor=fff&fontAlignY=65&animation=fadeIn" width="100%" />
+</div>
+
+## 🎓 Deep-Dive Technical Labs
+
+> Two long-form, systems-thinking reference repositories — each is a structured curriculum with runnable code, not a tutorial transcript. Built to teach transferable mental models rather than framework-specific tricks.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 [AI Runtime Lab](https://github.com/Ali-hey-0/ai-runtime-lab)
+
+**Engineering deterministic systems around non-deterministic models.**
+
+A 14-phase (of 17) systems-engineering curriculum answering one question: *how do you build reliable, auditable, production-grade software on top of a component that is fundamentally probabilistic?*
+
+**Covers:** FSM & state control · durable execution & crash recovery · retry/idempotency · DAG-based parallel workflows · agent runtimes · model routing · edge inference & quantization · RAG · memory systems · multi-agent orchestration · prompt-injection defense & sandboxing · full-system observability.
+
+![Phases](https://img.shields.io/badge/Phases-14%2F17-blue?style=flat-square)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Active-orange?style=flat-square)
+
+**[→ Explore the repo](https://github.com/Ali-hey-0/ai-runtime-lab)**
+
+</td>
+<td width="50%" valign="top">
+
+### 🎙️ [Audio AI Field Guide](https://github.com/Ali-hey-0/audio-ai-field-guide)
+
+**From raw waveform to production voice systems.**
+
+A complete, mental-model-first reference spanning the entire audio ML stack: datasets → preprocessing → Transformer architectures → ASR → audio classification → TTS → full voice-system pipelines (voice assistants, meeting transcription, speech-to-speech translation).
+
+**Covers:** CTC vs. Seq2Seq architectures · Whisper/Wav2Vec2 internals · fine-tuning ASR & TTS · Speaker Diarization & VAD · evaluation metrics (WER, MOS) · a 30+ term glossary.
+
+![HuggingFace](https://img.shields.io/badge/🤗-Audio_Course-FFD21E?style=flat-square)
+![Topics](https://img.shields.io/badge/-ASR_|_TTS_|_Transformers-orange?style=flat-square)
+![Language](https://img.shields.io/badge/lang-EN_|_فا-brightgreen?style=flat-square)
+
+**[→ Explore the repo](https://github.com/Ali-hey-0/audio-ai-field-guide)**
+
+</td>
+</tr>
+</table>
+
+### 💡 What I'm Building
+
+```mermaid
+graph TB
+    A[💻 Current Projects] --> B[AI & Machine Learning]
+    A --> C[Web Development]
+    A --> D[Cybersecurity]
+    A --> E[Systems Programming]
+
+    B --> B1[🤖 Agentic AI Runtime]
+    B --> B2[🎙️ Audio / Speech ML]
+    B --> B3[📊 Data Analytics]
+    B --> B4[🥽 AI Image-to-3D / AR Pipelines]
+
+    C --> C1[⚛️ React Apps]
+    C --> C2[🚀 Next.js Sites]
+    C --> C3[🎨 UI/UX Design]
+
+    D --> D1[🔐 Applied Cryptography]
+    D --> D2[🛡️ Defensive Recon & CTF]
+    D --> D3[🔍 Threat Analysis]
+
+    E --> E1[🦀 Rust Systems]
+    E --> E2[⚡ High-Performance APIs]
+
+    style A fill:#9333EA,color:#fff
+    style B fill:#FF6B6B,color:#fff
+    style C fill:#4ECDC4,color:#fff
+    style D fill:#FFD93D,color:#000
+    style E fill:#1A1B27,color:#fff
+```
+
+---
+
+<div align="center">
+
+## 🌟 Skills & Interests
+
+</div>
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>🎯 Currently Focused On</h3>
+      - 🔭 Building <strong>agentic AI runtimes</strong><br>
+      - 🎙️ Deepening <strong>Audio/Speech ML</strong><br>
+      - 🌱 Mastering <strong>Advanced ML & Deep Learning</strong><br>
+      - 👯 Open to <strong>Open Source contributions</strong><br>
+      - 🤝 Seeking <strong>collaboration opportunities</strong><br>
+      - 🚀 Exploring <strong>Cloud Architecture & DevOps</strong><br>
+      - 🔐 Learning <strong>Advanced Cybersecurity</strong>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🎨 Beyond Tech</h3>
+      - 🌍 <strong>Geography</strong> - Exploring world cultures<br>
+      - 🧬 <strong>Biology</strong> - Understanding life sciences<br>
+      - ⚗️ <strong>Chemistry</strong> - Molecular interactions<br>
+      - ⚽ <strong>Football</strong> - Strategy & analytics<br>
+      - 📺 <strong>TV Series</strong> - Storytelling art<br>
+      - 💊 <strong>Pharmacy</strong> - Medical innovations<br>
+      - 🧠 <strong>Neuroscience</strong> - Brain functions
+    </td>
+    <td width="33%" valign="top">
+      <h3>🎓 Always Learning</h3>
+      - 📚 Reading technical books<br>
+      - 🎯 Taking online courses<br>
+      - 🏗️ Building side projects<br>
+      - 🤝 Contributing to open source<br>
+      - 📝 Writing technical blogs<br>
+      - 🎤 Sharing knowledge<br>
+      - 🌱 Growing every day
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <em>*These diverse interests fuel my creativity and bring unique perspectives to problem-solving!*</em>
+</div>
+
+---
+
+<details>
+<summary><h2 style="display:inline;">🛡️ Security Research & CTF</h2></summary>
+
+> Defensive-security and CTF-style learning — training labs, wargame walkthroughs, reconnaissance tooling, and a structured exploitation-curriculum roadmap. No attack tooling, no unauthorized-access content.
+
+| Project | Description | Link |
+|---|---|---|
+| 🛡️ **owasp** | OWASP-based security training & penetration-testing lab. | [Repo](https://github.com/Ali-hey-0/owasp) |
+| 💣 **nightmare-exploit-roadmap** | Structured binary-exploitation curriculum: stack, heap, mitigations, ROP, automated exploitation. | [Repo](https://github.com/Ali-hey-0/nightmare-exploit-roadmap) |
+| 🔑 **NatasPasswordCracker** | Walkthrough/solver for the Natas web-security wargame (OverTheWire). | [Repo](https://github.com/Ali-hey-0/NatasPasswordCracker) |
+| 🧩 **recon-modular** | Modular reconnaissance framework for authorized security assessments — educational use only. | [Repo](https://github.com/Ali-hey-0/recon-modular) |
+
+</details>
+
+<details>
+<summary><h2 style="display:inline;">📖 Learning Resources & Inspiration</h2></summary>
+
+> Repositories imported from other authors to study, reference, or build on — not original work, kept here as a personal library.
+
+| Resource | Original Author | What it's for | Link |
+|---|---|---|---|
+| LLMs-from-scratch | [rasbt](https://github.com/rasbt) | Implementing a ChatGPT-like LLM in PyTorch from scratch. | [Repo](https://github.com/Ali-hey-0/LLMs-from-scratch) |
+| 🤗 datasets | [huggingface](https://github.com/huggingface) | Hub of ready-to-use datasets for AI models. | [Repo](https://github.com/Ali-hey-0/datasets) |
+| TensorTrade | [tensortrade-org](https://github.com/tensortrade-org) | RL framework for training algorithmic trading agents. | [Repo](https://github.com/Ali-hey-0/TensorTrade-with-Reinforcement-Learn) |
+| heroui | [heroui-inc](https://github.com/heroui-inc) | Modern React UI library (formerly NextUI). | [Repo](https://github.com/Ali-hey-0/heroui) |
+| awesome-llm-apps | [Shubhamsaboo](https://github.com/Shubhamsaboo) | Collection of LLM apps with AI Agents and RAG. | [Repo](https://github.com/Ali-hey-0/awesome-llm-apps) |
+| Awesome-Hacking | [Hack-with-Github](https://github.com/Hack-with-Github) | Curated lists for hackers, pentesters & security researchers. | [Repo](https://github.com/Ali-hey-0/Awesome-Hacking) |
+| awesome-courses | [prakhar1989](https://github.com/prakhar1989) | List of awesome university CS courses. | [Repo](https://github.com/Ali-hey-0/awesome-courses) |
+| awesome-interview-questions | [DopplerHQ](https://github.com/DopplerHQ) | Curated interview-question lists. | [Repo](https://github.com/Ali-hey-0/awesome-interview-questions) |
+| DALI | [NVIDIA](https://github.com/NVIDIA) | GPU-accelerated data-loading library for deep learning. | [Repo](https://github.com/Ali-hey-0/DALI) |
+| practical-tutorials | [jderazoa](https://github.com/jderazoa) | Curated list of project-based tutorials. | [Repo](https://github.com/Ali-hey-0/practical-tutorials-project-based-learning) |
+| Qiskit | [Qiskit](https://github.com/Qiskit) | Open-source SDK for quantum computing. | [Repo](https://github.com/Ali-hey-0/Qiskit) |
+| opencv | [opencv](https://github.com/opencv) | Open Source Computer Vision Library. | [Repo](https://github.com/Ali-hey-0/opencv) |
+| Models-Master | [tensorflow](https://github.com/tensorflow) | Models and examples built with TensorFlow. | [Repo](https://github.com/Ali-hey-0/Models-Master) |
+| deep-learning-with-pytorch | [mrdbourke](https://github.com/mrdbourke) | "Learn PyTorch for Deep Learning: Zero to Mastery" course materials. | [Repo](https://github.com/Ali-hey-0/deep-learning-with-pytorch) |
+| Freqtrade | [freqtrade](https://github.com/freqtrade) | Open-source crypto trading bot. | [Repo](https://github.com/Ali-hey-0/Freqtrade) |
+| Bullet-Physics-SDK | [bulletphysics](https://github.com/bulletphysics) | Real-time collision detection & physics simulation SDK. | [Repo](https://github.com/Ali-hey-0/Bullet-Physics-SDK) |
+| EvoSynth | [dongdongunique](https://github.com/dongdongunique) | Evolutionary-synthesis reference project. | [Repo](https://github.com/Ali-hey-0/EvoSynth) |
+
+</details>
+
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,20,25&height=70&section=header&text=2026%20Roadmap&fontSize=28&fontColor=fff&fontAlignY=65&animation=fadeIn" width="100%" />
+</div>
+
+## 🗺️ 2026 Roadmap
+
+```mermaid
+graph TB
+    A[🎯 2026 Focus Areas] --> B[🤖 AI & ML]
+    A --> C[🌐 Web Development]
+    A --> D[🔒 Cybersecurity]
+    A --> E[🦀 Systems Programming]
+
+    B --> B1[Agentic AI Runtimes]
+    B --> B2[Audio / Speech ML]
+    B --> B3[Computer Vision / Edge AI]
+
+    D --> D1[CTF & Exploitation Study]
+    D --> D2[Applied Cryptography]
+
+    E --> E1[Rust CLI Tools]
+    E --> E2[WebAssembly]
+
+    style A fill:#9333EA,stroke:#7C3AED,color:#fff
+    style B fill:#FF6B6B,stroke:#E63946,color:#fff
+    style C fill:#4ECDC4,stroke:#35A29F,color:#fff
+    style D fill:#FFD93D,stroke:#F4C430,color:#000
+    style E fill:#1A1B27,stroke:#000000,color:#fff
+```
+
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=11,24,20&height=70&section=header&text=Unique%20Approach&fontSize=28&fontColor=fff&fontAlignY=65&animation=fadeIn" width="100%" />
+</div>
+
+## 🎨 Unique Approach
+
+My interdisciplinary background directly shapes how I design systems:
+
+| Domain | Applied to |
+|---|---|
+| 🧬 **Biology** | Biomimetic algorithms & evolutionary optimization |
+| ⚗️ **Chemistry** | Reaction-rate modeling for distributed systems & backpressure |
+| 🧠 **Neuroscience** | Brain-inspired neural architectures & attention mechanisms |
+| 📊 **Sports Analytics** | Data-driven decision frameworks & probabilistic modeling |
+
+**Shipped so far:**
+
+![Blog](https://img.shields.io/badge/🌐_Blog-Live-success?style=flat-square)
+![API](https://img.shields.io/badge/⚡_Production_API-Shipped-success?style=flat-square)
+![Desktop](https://img.shields.io/badge/🖥️_Desktop_App-.NET_9-success?style=flat-square)
+![EdgeAI](https://img.shields.io/badge/🤖_Edge_AI_Model-Deployed-success?style=flat-square)
+![ARCommerce](https://img.shields.io/badge/🥽_AI_Image--to--AR_Pipeline-Delivered-success?style=flat-square)
+![RuntimeLab](https://img.shields.io/badge/🧠_AI_Runtime_Lab-14%2F17_Phases-success?style=flat-square)
+![Ecommerce](https://img.shields.io/badge/🏭_Industrial_Ecommerce-Staging-yellow?style=flat-square)
+
+---
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Dev Quote" width="70%" />
+
+<br>
+
+### 🌟 *"The best code is written with passion, refined with discipline, and shared with generosity."*
+
+<br>
+
+### 🤝 Let's Build Something Together
+
+[![Gmail](https://img.shields.io/badge/Say_Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aliheydari1381doc@gmail.com)
+[![GitHub](https://img.shields.io/badge/Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ali-hey-0)
+
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,25&height=150&section=footer&text=Thanks%20for%20Visiting!&fontSize=35&fontColor=fff&fontAlignY=75" />
+
+**⭐️ From [Ali-hey-0](https://github.com/Ali-hey-0) — Made with 💜 in Markdown**
+
+<img src="https://komarev.com/ghpvc/?username=Ali-hey-0&label=Profile%20Views&color=9333EA&style=flat-square" />
+
+</div>
