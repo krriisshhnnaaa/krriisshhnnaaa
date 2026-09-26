@@ -28,7 +28,7 @@
 
 ### 🧭 Quick Navigation
 
-[📊 Stats](#-github-stats) · [👋 About](#-about-me) · [🛠️ Tech Stack](#️-tech-stack) · [🚀 Projects](#-featured-projects) · [🎓 Deep-Dive Labs](#-deep-dive-technical-labs) · [🛡️ Security & CTF](#-security-research--ctf) · [📖 Learning Library](#-learning-resources--inspiration) · [🗺️ Roadmap](#️-2026-roadmap) · [🎨 Approach](#-unique-approach)
+[📊 Stats](#-github-stats) · [👋 About](#-about-me) · [🛠️ Tech Stack](#️-tech-stack) · [🗺️ Roadmap](#️-2026-roadmap) · [🎨 Approach](#-unique-approach)
 
 </div>
 
@@ -248,49 +248,6 @@ graph TB
 
 ---
 
-<details>
-<summary><h2 style="display:inline;">🛡️ Security Research & CTF</h2></summary>
-
-> Defensive-security and CTF-style learning — training labs, wargame walkthroughs, reconnaissance tooling, and a structured exploitation-curriculum roadmap. No attack tooling, no unauthorized-access content.
-
-| Project | Description | Link |
-|---|---|---|
-| 🛡️ **owasp** | OWASP-based security training & penetration-testing lab. | [Repo](https://github.com/Ali-hey-0/owasp) |
-| 💣 **nightmare-exploit-roadmap** | Structured binary-exploitation curriculum: stack, heap, mitigations, ROP, automated exploitation. | [Repo](https://github.com/Ali-hey-0/nightmare-exploit-roadmap) |
-| 🔑 **NatasPasswordCracker** | Walkthrough/solver for the Natas web-security wargame (OverTheWire). | [Repo](https://github.com/Ali-hey-0/NatasPasswordCracker) |
-| 🧩 **recon-modular** | Modular reconnaissance framework for authorized security assessments — educational use only. | [Repo](https://github.com/Ali-hey-0/recon-modular) |
-
-</details>
-
-<details>
-<summary><h2 style="display:inline;">📖 Learning Resources & Inspiration</h2></summary>
-
-> Repositories imported from other authors to study, reference, or build on — not original work, kept here as a personal library.
-
-| Resource | Original Author | What it's for | Link |
-|---|---|---|---|
-| LLMs-from-scratch | [rasbt](https://github.com/rasbt) | Implementing a ChatGPT-like LLM in PyTorch from scratch. | [Repo](https://github.com/Ali-hey-0/LLMs-from-scratch) |
-| 🤗 datasets | [huggingface](https://github.com/huggingface) | Hub of ready-to-use datasets for AI models. | [Repo](https://github.com/Ali-hey-0/datasets) |
-| TensorTrade | [tensortrade-org](https://github.com/tensortrade-org) | RL framework for training algorithmic trading agents. | [Repo](https://github.com/Ali-hey-0/TensorTrade-with-Reinforcement-Learn) |
-| heroui | [heroui-inc](https://github.com/heroui-inc) | Modern React UI library (formerly NextUI). | [Repo](https://github.com/Ali-hey-0/heroui) |
-| awesome-llm-apps | [Shubhamsaboo](https://github.com/Shubhamsaboo) | Collection of LLM apps with AI Agents and RAG. | [Repo](https://github.com/Ali-hey-0/awesome-llm-apps) |
-| Awesome-Hacking | [Hack-with-Github](https://github.com/Hack-with-Github) | Curated lists for hackers, pentesters & security researchers. | [Repo](https://github.com/Ali-hey-0/Awesome-Hacking) |
-| awesome-courses | [prakhar1989](https://github.com/prakhar1989) | List of awesome university CS courses. | [Repo](https://github.com/Ali-hey-0/awesome-courses) |
-| awesome-interview-questions | [DopplerHQ](https://github.com/DopplerHQ) | Curated interview-question lists. | [Repo](https://github.com/Ali-hey-0/awesome-interview-questions) |
-| DALI | [NVIDIA](https://github.com/NVIDIA) | GPU-accelerated data-loading library for deep learning. | [Repo](https://github.com/Ali-hey-0/DALI) |
-| practical-tutorials | [jderazoa](https://github.com/jderazoa) | Curated list of project-based tutorials. | [Repo](https://github.com/Ali-hey-0/practical-tutorials-project-based-learning) |
-| Qiskit | [Qiskit](https://github.com/Qiskit) | Open-source SDK for quantum computing. | [Repo](https://github.com/Ali-hey-0/Qiskit) |
-| opencv | [opencv](https://github.com/opencv) | Open Source Computer Vision Library. | [Repo](https://github.com/Ali-hey-0/opencv) |
-| Models-Master | [tensorflow](https://github.com/tensorflow) | Models and examples built with TensorFlow. | [Repo](https://github.com/Ali-hey-0/Models-Master) |
-| deep-learning-with-pytorch | [mrdbourke](https://github.com/mrdbourke) | "Learn PyTorch for Deep Learning: Zero to Mastery" course materials. | [Repo](https://github.com/Ali-hey-0/deep-learning-with-pytorch) |
-| Freqtrade | [freqtrade](https://github.com/freqtrade) | Open-source crypto trading bot. | [Repo](https://github.com/Ali-hey-0/Freqtrade) |
-| Bullet-Physics-SDK | [bulletphysics](https://github.com/bulletphysics) | Real-time collision detection & physics simulation SDK. | [Repo](https://github.com/Ali-hey-0/Bullet-Physics-SDK) |
-| EvoSynth | [dongdongunique](https://github.com/dongdongunique) | Evolutionary-synthesis reference project. | [Repo](https://github.com/krriisshhnnaaa) |
-
-</details>
-
----
-
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,20,25&height=70&section=header&text=2026%20Roadmap&fontSize=28&fontColor=fff&fontAlignY=65&animation=fadeIn" width="100%" />
 </div>
@@ -361,6 +318,6 @@ My interdisciplinary background directly shapes how I design systems:
 
 **⭐️ From [KRISHNA](https://github.com/krriisshhnnaaa) — Made with 💜 in Markdown**
 
-<img src="https://komarev.com/ghpvc/?username=Ali-hey-0&label=Profile%20Views&color=9333EA&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=krriisshhnnaaa&label=Profile%20Views&color=9333EA&style=flat-square" />
 
 </div>
