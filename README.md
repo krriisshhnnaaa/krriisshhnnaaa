@@ -37,7 +37,7 @@
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=70&section=header&text=GitHub%20Stats&fontSize=28&fontColor=fff&fontAlignY=65&animation=fadeIn" width="100%" />
+<img src="https://readme-typing-svg.demolab.com?font=fira+code&weight=100&pause=1000&color=F7678E&width=435&lines=Bridging+Models%2C+APIs%2C+and+Cloud+Infra;for+Production-Ready+AI" />
 </div>
 
 ## 📊 GitHub Stats
