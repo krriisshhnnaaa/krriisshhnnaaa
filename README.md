@@ -16,7 +16,7 @@
 
 <br>
 
-![Freelance](https://img.shields.io/badge/💼_Freelance-Available-success?style=for-the-badge&labelColor=006400)([![Freelance]
+![Freelance](https://img.shields.io/badge/💼_Freelance-Available-success?style=for-the-badge&labelColor=006400)
 ![Collaborations](https://img.shields.io/badge/🤝_Collaborations-Open-FF8C00?style=for-the-badge&labelColor=8B4000)
 ![Full Time](https://img.shields.io/badge/👨‍💻_Full_Time-Seeking-4169E1?style=for-the-badge&labelColor=00008B)
 ![Remote](https://img.shields.io/badge/🌍_Remote-Preferred-9370DB?style=for-the-badge&labelColor=4B0082)
@@ -44,7 +44,7 @@
 
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=Ali-hey-0&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-stats-extended.vercel.app/api?username=krriisshhnnaaa&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
 <img src="https://streak-stats.demolab.com/?user=Ali-hey-0&theme=tokyonight&hide_border=true" width="48%" />
 
 <br>
