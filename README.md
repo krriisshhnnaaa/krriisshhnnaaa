@@ -8,7 +8,7 @@
 **AI/ML STUDENT - Chitkara University , Rajpura** | Python · REACT.js · C++ · FastAPI · ML · Agentic Systems
 
 <a href="https://github.com/krriisshhnnaaa">
-  <img src="[![Typing SVG](https://readme-typing-svg.demolab.com?font=fira+code&weight=100&pause=1000&width=435&lines=Bridging+Models%2C+APIs%2C+and+Cloud+Infra;for+Production-Ready+AI)](https://git.io/typing-svg)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=fira+code&weight=100&pause=1000&width=435&lines=Bridging+Models%2C+APIs%2C+and+Cloud+Infra;for+Production-Ready+AI)" alt="Typing SVG" />
 </a>
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:official.krishnangpandey@gmail.com)
