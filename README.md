@@ -116,12 +116,7 @@ npx ali-hey-0  # Coming soon: CLI tool to showcase my work!
 <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=20,24,25&height=70&section=header&text=Tech%20Stack&fontSize=28&fontColor=fff&fontAlignY=65&animation=fadeIn" width="100%" />
 </div>
 
-## 🛠️ Tech Stack
----
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=20,24,25&height=70&section=header&text=Tech%20Stack&fontSize=28&fontColor=fff&fontAlignY=65&animation=fadeIn" width="100%" />
-</div>
 
 ## 🛠️ Tech Stack
 
